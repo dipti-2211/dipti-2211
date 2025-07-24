@@ -59,7 +59,7 @@
 ### 📚 Latest Projects
 
 - 🧩 **Portfolio Website** – Built with React + Tailwind + Framer Motion  
-  [Live Demo](https://yourportfolio.com) • [Code](https://github.com/diptisingh11103/your-portfolio)
+  [Live Demo](https://dipti-singh.vercel.app/) • [Code](https://github.com/dipti-2211/Dipti_Portfolio)
 
 - 📱 **React Native App** – Cross-platform mobile app for daily tasks  
   [Coming Soon]()
