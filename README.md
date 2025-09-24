@@ -9,7 +9,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dipti Singh</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h1 align="center">Welcome to my Github</h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 ---
 
