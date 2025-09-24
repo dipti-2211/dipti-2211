@@ -1,6 +1,6 @@
 <!-- Banner Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dipti+Singh!;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Crafting+Web+%26+Mobile+Experiences;React+%7C+Next.js+%7C+Tailwind+%7C+Node.js;Always+Learning+%F0%9F%92%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dipti+Singh!;Full+Stack+Developer;Crafting+Web+%26+Mobile+Experiences;React+%7C+Next.js+%7C+Tailwind+%7C+Node.js;Always+Learning+%F0%9F%92%AD" alt="Typing SVG" />
 </p>
 
 <!-- Optional Visual -->
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dipti Singh</h1>
-<h1 align="center">Welcome to my Github</h1>
+
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 ---
