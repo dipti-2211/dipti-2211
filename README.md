@@ -69,15 +69,17 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Technologies | Status | Links |
+| Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| 🧩 **Portfolio Website** | React, Tailwind, Framer Motion | Live | [Demo](https://dipti-singh.vercel.app/) \| [Code](https://github.com/dipti-2211/Dipti_Portfolio) |
-| 📱 **Task Manager App** | React Native, Node.js, MongoDB | In Development | [Coming Soon] |
-| 🚀 **MDX Blog** | Next.js, MDX, SEO | Planning | [GitHub](https://github.com/diptisingh11103/your-blog) |
+| **🌐 Portfolio Website** | **Primary digital identity.** Showcasing my projects, skills, and contact info built with modern UI/UX principles and animations. | `React` `Tailwind CSS` `Framer Motion` | [Live](https://dipti-singh.vercel.app/) \| [Code](https://github.com/dipti-2211/Dipti_Portfolio) |
+| **🎬 Netflix Clone** | A frontend clone demonstrating proficiency in complex UI layouts, responsive design, and component-based architecture. | `React` `CSS` | [Code](https://github.com/dipti-2211/netflix-clone) |
+| **💊 MediTrack (MERN Stack)** | A full-stack application for efficient and secure management of medical records and patient data. | `Node.js` `Express` `MongoDB` `React` | [Code](https://github.com/dipti-2211/MediTrack) |
+| **📄 Multi-Step Form** | A clean, user-friendly multi-step form implementation demonstrating strong form handling and state management. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/dipti-2211/form-page) |
 
 ---
+
 
 ### 📫 Let's Connect
 
