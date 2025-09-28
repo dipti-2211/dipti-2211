@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
   <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" />
@@ -44,29 +45,37 @@
 
 ---
 
-### 📈 GitHub Stats
-![Dipti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipti-2211&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipti-2211&layout=compact&theme=radical)
+### 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipti-2211&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Dipti's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipti-2211&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipti-2211&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
-### 🚀 Current Focus
-- Mastering full-stack development
-- Deepening my understanding of C++
-- Competitive programming across platforms
+
+### 📚 Competitive Programming & Education
+
+- 🚀 **Current Focus:** Deepening my understanding of C++ and maintaining active participation in competitive programming.
+- **Achievements:**
+    - CodeChef **3★ Coder**
+    - LeetCode **Pupil** | **1600+ Rating**
+    - GfG **Expert** | **2100+ Score**
+    - **1000+** Problems Solved on various platforms
 
 ---
 
-### 📚 Latest Projects
+### 🚀 Featured Projects
 
-- 🧩 **Portfolio Website** – Built with React + Tailwind + Framer Motion  
-  [Live Demo](https://dipti-singh.vercel.app/) • [Code](https://github.com/dipti-2211/Dipti_Portfolio)
-
-- 📱 **React Native App** – Cross-platform mobile app for daily tasks  
-  [Coming Soon]()
-
-- 🚀 **Next.js Blog** – MDX powered blog with dark mode and SEO  
-  [GitHub](https://github.com/diptisingh11103/your-blog)
+| Project | Technologies | Status | Links |
+| :--- | :--- | :--- | :--- |
+| 🧩 **Portfolio Website** | React, Tailwind, Framer Motion | Live | [Demo](https://dipti-singh.vercel.app/) \| [Code](https://github.com/dipti-2211/Dipti_Portfolio) |
+| 📱 **Task Manager App** | React Native, Node.js, MongoDB | In Development | [Coming Soon] |
+| 🚀 **MDX Blog** | Next.js, MDX, SEO | Planning | [GitHub](https://github.com/diptisingh11103/your-blog) |
 
 ---
 
@@ -76,7 +85,7 @@
   <a href="mailto:diptisingh11103@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dipti-singh-3b0274309/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="https://x.com/DiptiSingh2211"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square" /></a>
+  <a href="https://dipti-singh.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square" /></a> 
 </p>
 
 ---
