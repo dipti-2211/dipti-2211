@@ -56,7 +56,13 @@
 </p>
 
 ---
+### **Activity Overview**
 
+> This graph provides a visual summary of my coding activity over the last year, highlighting consistency and contribution patterns.
+
+[![Dipti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipti-2211&theme=xcode&hide_border=true&line=586e7e&point=24292e&bg_color=000000&color=2e4054)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ### 📚 Competitive Programming & Education
 
@@ -79,6 +85,7 @@
 | **📄 Multi-Step Form** | A clean, user-friendly multi-step form implementation demonstrating strong form handling and state management. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/dipti-2211/form-page) |
 
 ---
+
 
 
 ### 📫 Let's Connect
