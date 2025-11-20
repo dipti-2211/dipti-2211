@@ -94,7 +94,7 @@
   <a href="mailto:diptisingh11103@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dipti-singh-3b0274309/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="https://x.com/DiptiSingh2211"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://dipti-singh.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square" /></a> 
+  <a href="https://dipti-singh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square" /></a> 
 </p>
 
 ---
